@@ -1,7 +1,7 @@
-## Hi there 👋
+## Hello World
 
 <!--
-**ashonantony256/ashonantony256** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ashonantony256/ashonantony256** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.stomizations and want to save your work, select Commi
 
 Here are some ideas to get you started:
 
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hey fellow developers! I just cant stop finding new things to study about. I go head first into projects and somehow find my way through it through a LOT of trial and error. 
+Thats the way I like to study about stuff. I prefer projects and real life applications. I use AI to do projects as well but I prefer coding them myself so I have more control over the project.
+
+- I'm really interested in Game Development. But I cant stop myself from exploring all the various domains.
+- I spend an unhealthy amount of time on my PC breaking and fixing stuff (not intentionally)
+- I'm just winging this bio thingy so bare with me if it's not professional looking.😆️
